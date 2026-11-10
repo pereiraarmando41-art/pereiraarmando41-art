@@ -6,6 +6,10 @@
 
 ### 💻 Trabajos y Proyectos Académicos (UNLP)
 
+* 📻 **[Taller de Proyecto II — Receptor de Radio FM Dual](https://github.com/tpII/2026-f2-receptores-radio-fm):**
+  - Sistema de audio embebido integrando módulos sintonizadores TEA5767 y HEX3653 sobre ESP8266.
+  - Conmutación de audio por relé DPDT, control de volumen por potenciómetro digital X9C103S, almacenamiento no volátil de memorias (LittleFS/EEPROM) y consola de control HTML5 interactiva.
+
 * 🤖 **Supervisión y Telemetría IoT (PPS - Laboratorio LINTI UNLP):**
   - **Digital Twin & Predictive Modeling:** Desarrollo en Python utilizando SimPy, PVGIS y pvlib para la predicción de generación fotovoltaica y optimización del bombeo de agua municipal.
 
@@ -17,13 +21,9 @@
 
 ---
 
-### 📡 Proyectos Personales y Hardware Embebido
+### 🌐 Proyectos Web & Portafolio
 
-* 📻 **Receptor de Radio FM Dual (ESP8266 + Web Console):**
-  - Sistema de audio embebido integrando sintonizadores TEA5767 / HEX3653, conmutación de audio por relé DPDT, potenciómetro digital X9C103S, persistencia EEPROM/LittleFS y consola HTML5.
-
-* 🌐 **Desarrollo Web & Portfolio:**
-  - 💼 **[Developer Portfolio](https://github.com/pereiraarmando41-art/portfolio):** Sitio personal interactivo alojado en GitHub Pages con animaciones e interfaz multilingüe.
+* 💼 **[Developer Portfolio](https://github.com/pereiraarmando41-art/portfolio):** Sitio personal interactivo alojado en GitHub Pages con animaciones e interfaz multilingüe.
 
 ---
 
