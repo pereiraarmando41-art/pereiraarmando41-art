@@ -37,5 +37,5 @@
 ---
 
 📫 **Contacto:**
-- **LinkedIn:** [Armando Pereira](https://www.linkedin.com/in/armando-pereira)
+- **LinkedIn:** [Armando Pereira](www.linkedin.com/in/armando-pereira-2810a3278)
 - **GitHub:** [@pereiraarmando41-art](https://github.com/pereiraarmando41-art)
