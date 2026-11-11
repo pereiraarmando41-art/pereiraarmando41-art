@@ -11,7 +11,7 @@
   - Conmutación de audio por relé DPDT, control de volumen por potenciómetro digital X9C103S, almacenamiento no volátil de memorias (LittleFS/EEPROM) y consola de control HTML5 interactiva.
 
 * 🤖 **Supervisión y Telemetría IoT (PPS - Laboratorio LINTI UNLP):**
-  - **Digital Twin & Predictive Modeling:** Desarrollo en Python utilizando SimPy, PVGIS y pvlib para la predicción de generación fotovoltaica y optimización del bombeo de agua municipal.
+  - **[Gemelo Digital para Gestión Eficiente de Bombeo de Agua](https://github.com/pereiraarmando41-art/PPS-Gemelo-Digital-Bombeo):** Desarrollo en Python utilizando SimPy, PVGIS y pvlib para la predicción de generación fotovoltaica y optimización del bombeo de agua municipal.
 
 * ⚡ **Sistemas Distribuidos y Paralelos:**
   - 👑 **[Resolución Paralela de las N-Reinas](https://github.com/pereiraarmando41-art/Sistemas-Distribuidos-y-Paralelos):** Solución híbrida (MPI + Pthreads) en C optimizada con *bitboards* y podado por simetrías (*Takaken*).
