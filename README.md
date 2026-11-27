@@ -40,9 +40,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pereiraarmando41-art&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraarmando41-art&theme=dracula#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraarmando41-art&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraarmando41-art&theme=dracula#gh-dark-mode-only&theme=default#gh-light-mode-only)
 
 ---
 
