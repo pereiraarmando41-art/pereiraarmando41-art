@@ -36,6 +36,16 @@
 
 ---
 
+###  GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pereiraarmando41-art&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraarmando41-art&theme=dracula#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraarmando41-art&theme=default#gh-light-mode-only)
+
+---
+
 📫 **Contacto:**
 - **LinkedIn:** [Armando Pereira](https://www.linkedin.com/in/armando-pereira-2810a3278/)
 - **GitHub:** [@pereiraarmando41-art](https://github.com/pereiraarmando41-art)
